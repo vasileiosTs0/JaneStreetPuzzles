@@ -1,4 +1,4 @@
-# JaneStreetPuzzles
+# Jane Street Puzzles
 My take on Jane Street's puzzles page found here: 
 https://www.janestreet.com/puzzles/
 
